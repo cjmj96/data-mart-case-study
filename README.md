@@ -90,3 +90,40 @@ Sales declined across nearly customer categories, except for new customers. Tota
 
 
 ![sales-through-time-by-customer-type-12weeks](sales-through-time-by-customer-type-12weeks.png)
+
+
+
+
+## Recommendations
+
+1. Quantifiable impact after the introduction of sustainable packaging methods
+
+    1.1 Monitor sales performance for more than 12 weeks to evaluate whether the trend continue, stabilize, or decline in order to implement a predictive model for projecting long-term losses if the trend persist.
+
+    1.2 Conduct a cost-benefit analysis comparing the $152M sales loss over 12 weeks against sustainability benefits to assess if the trade-off is justified.
+
+2. Most impacted business areas
+
+    2.1 Identify why retail underperformed and use Shopify's success as a guide to improve.
+
+    2.2 Examine Europe's strategy to design and implement campaigns for underperforming areas.
+
+    2.3 Improve how we collect data to understand customer demographics. Then, use this information to create personalized offers that help retain customers who are sensitive to price.
+
+    2.4 Keep existing customers via loyalty programs that offer discounts for reusable packaging. Leverage sustainability to attract new customers.
+
+3. Mitigation strategies for future updates
+
+    3.1 Test changes in Europe and Shopify first, focusing on the best-performing areas, before rolling them out globally.
+
+    3.2 Pre-launch: Educate customers about the benefits of sustainability through targeted ads.
+
+    3.3 Post-launch: Gather feedback through surveys to identify and improve weak areas.
+
+    3.4 Covert short-term packaging costs to prevent price increases, especially for retail and unknown segments.
+
+    3.5 Bundle eco-friendly products with popular items to try them out.
+    
+    3.6 Reduce the number of "unknown" segments using CRM systems to collect customer demographics.
+
+    3.7 Gather feedback from customers after their purchase, such as through surveys, to add to sales data.
